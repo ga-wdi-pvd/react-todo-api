@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Steps to set up our API:
 
-Things you may want to cover:
+1. Enable CORS:
+config/initializers/cors.rb should be set to allow your frontend server
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+2. (D)CM(S) your database!
